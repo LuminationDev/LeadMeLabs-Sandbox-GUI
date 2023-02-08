@@ -1,0 +1,14 @@
+{
+  "name": "simple-http-api",
+  "version": "1.0.0",
+  "description": "simple way to send commands across the named pipe - for dev/poc purposes only",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lumination",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
