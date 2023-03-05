@@ -137,7 +137,7 @@
                         Content="Send" 
                         Margin="10" 
                         Command="{Binding SendPipeCommand}"
-                        ToolTip="Send a message a running pipe server."/>
+                        ToolTip="Send a message a running pipe server." IsDefault="True"/>
 
                     <TextBox 
                         x:Name="InputBox"
